@@ -19,7 +19,7 @@ cells:
   docs:
     link:
       url: "https://github.com/andymchugh/andrewbmchugh-flow-panel/blob/main/src/README.md"
-  inbox_depth:
+  test_shape:
     dataRef: "test-data-large-sin"
     label:
       separator: "cr"
