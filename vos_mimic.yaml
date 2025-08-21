@@ -1,0 +1,19 @@
+---
+
+#------------------------------------------------------------------------------
+# YAML Aliases to simplify maintenance
+
+anchorLinks:
+  - link: &grafana-home
+      url: "https://grafana.com/"
+      params: "time"
+
+#------------------------------------------------------------------------------
+# Panel Config
+
+cellIdPreamble: "cell-"
+cells: 
+  ukvos01x20encodera:
+    link:
+      url: "https://github.com/andymchugh/andrewbmchugh-flow-panel/blob/main/src/README.md"
+ 
